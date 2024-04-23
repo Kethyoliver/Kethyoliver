@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=27&pause=1000&color=F769AD&background=F5B9FF00&random=false&width=435&lines=Ol%C3%A1%2C+sou+a+Kethelyn+!)](https://git.io/typing-svg)
 
-* 🌱 I’m currently learning FullStack and Cyber Security.
+* 🌱 I’m currently learning Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas no SENAI São Caetano, desejo contínuo de aprender, contribuir e crescer na área.
 * 😄 Pronouns: Ela / Dela
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kethyoliver&show_icons=true&theme=dracula)
