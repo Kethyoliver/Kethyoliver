@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=27&pause=1000&color=F769AD&background=F5B9FF00&random=false&width=435&lines=Ol%C3%A1%2C+sou+a+Kethelyn+!)](https://git.io/typing-svg)
 
-* 👩🏻‍💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade SENAI de Tecnologia Mecatrônica - São Caetano do Sul, possuo conhecimento tecnico em Desenvolvimento de Sistemas.
+* 👩🏻‍💻 Formada em Análise e Desenvolvimento de Sistemas na Faculdade SENAI de Tecnologia Mecatrônica - São Caetano do Sul e cursando tecnico em Desenvolvimento de Sistemas.
 * 😄 Pronouns: Ela / Dela
 
 
